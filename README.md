@@ -4,8 +4,8 @@ A stand-alone desktop application which enable users to store and access the inf
 Requirements:
 
 Python interpreter, libraries like,
-1.Tkinter using "pip install tk"
-2.Pillow using "pip install Pillow"
+ 1.Tkinter using "pip install tk"
+ 2.Pillow using "pip install Pillow"
 3.wikipedia using "pip install wikipedia"
 4.mysql connector for python using "pip install mysql-connector-python"
 5.IDE for running the project (any like VScode etc).
